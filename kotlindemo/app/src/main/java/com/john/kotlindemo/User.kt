@@ -1,4 +1,4 @@
-package com.john.kotlinanddatabindingdemo
+package com.john.kotlindemo
 
 /**
  * Created by guqh on 2017/6/8.
