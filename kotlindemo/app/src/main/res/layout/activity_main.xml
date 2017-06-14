@@ -11,7 +11,7 @@
         android:layout_height="match_parent"
         android:orientation="vertical"
         android:gravity="center_horizontal"
-        tools:context="com.john.kotlinanddatabindingdemo.MainActivity">
+        >
 
         <TextView
             android:id="@+id/tv_name"
