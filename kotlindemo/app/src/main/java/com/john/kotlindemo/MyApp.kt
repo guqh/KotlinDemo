@@ -1,4 +1,4 @@
-package com.john.kotlinanddatabindingdemo
+package com.john.kotlindemo
 
 import android.app.Application
 import com.facebook.drawee.backends.pipeline.Fresco
