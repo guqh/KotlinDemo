@@ -3,7 +3,7 @@
     <data>
         <variable
             name="data"
-            type="com.john.kotlinanddatabindingdemo.User"/>
+            type="com.john.kotlindemo.User"/>
     </data>
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:tools="http://schemas.android.com/tools"
@@ -11,7 +11,7 @@
         android:layout_height="match_parent"
         android:gravity="center"
         android:orientation="vertical"
-        tools:context="com.john.kotlinanddatabindingdemo.OtherActivity">
+        tools:context="com.john.kotlindemo.OtherActivity">
 
         <com.john.kotlindemo.DraweeView
             fresco:url="@{data.photo}"
