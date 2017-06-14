@@ -1,4 +1,4 @@
-package com.john.kotlinanddatabindingdemo
+package com.john.kotlindemo
 
 import android.databinding.DataBindingUtil
 import android.support.v7.app.AppCompatActivity
